@@ -2,7 +2,7 @@
 
 Videojuego de plataformas 2D estilo *Sonic*, escrito en C++ puro sobre WinAPI (sin motor externo). Proyecto educativo desarrollado como práctica de programación de sistemas / bajo nivel.
 
-> ⚠️ **Proyecto fan-made / educativo.** Usa sprites y pistas de audio de *Sonic the Hedgehog* (SEGA) y otros juegos con fines de aprendizaje. No es un proyecto comercial, no está afiliado a SEGA ni a los titulares de esos derechos, y no debe distribuirse con fines comerciales. Ver [Créditos](#créditos-y-assets-de-terceros).
+**Proyecto fan-made / educativo.** Usa sprites y pistas de audio de *Sonic the Hedgehog* (SEGA) y otros juegos con fines de aprendizaje. No es un proyecto comercial, no está afiliado a SEGA ni a los titulares de esos derechos, y no debe distribuirse con fines comerciales. Ver [Créditos](#créditos-y-assets-de-terceros).
 
 ## Descripción
 
